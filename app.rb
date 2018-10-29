@@ -16,8 +16,4 @@ class App < Sinatra::Base
     @c = params["c"]
     erb :team
   end
-
-  get '/team' do
-    erb :team
-  end 
 end
