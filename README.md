@@ -42,6 +42,8 @@ because our test frame work, Capybara, requires buttons to be
    Have the form send a POST request to this route.
    Upon submission, pass the submitted data to the `team.erb` template.
 
+### Pick up here!
+
 5. Final Output
 
    Update the `team.erb` template so when you post to this form, it displays
